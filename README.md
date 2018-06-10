@@ -1,2 +1,2 @@
 # hello-world
-olbligatory test repositiry
+obligatory test repository
